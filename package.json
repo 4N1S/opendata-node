@@ -1,6 +1,6 @@
 {
   "name": "opendata-node",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "wrapper api for opendatasoft API",
   "main": "index.js",
   "scripts": {
